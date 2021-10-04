@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = guerin.dm@gmail.com
+	name = David Guerin
